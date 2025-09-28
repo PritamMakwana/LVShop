@@ -4,7 +4,8 @@ import Hello from './components/HelloWorld.vue'
 
 <template>
 <div>
-<Hello />
+<!-- <Hello /> -->
+<router-view />
 </div>
 </template>
 
